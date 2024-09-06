@@ -20,7 +20,8 @@ namespace CookingPrototype.Kitchen {
 		/// Освобождает место по двойному тапу если еда на этом месте сгоревшая.
 		/// </summary>
 		[UsedImplicitly]
-		public void TryTrashFood() {
+		public void TryTrashFood()
+		{
 			throw new NotImplementedException("TryTrashFood: this feature is not implemented");
 		}
 	}
