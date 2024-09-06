@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-using  CookingPrototype.Controllers;
+using CookingPrototype.Controllers;
 
 using TMPro;
 
@@ -40,4 +40,7 @@ namespace CookingPrototype.UI {
 			gameObject.SetActive(false);
 		}
 	}
+}
+
+namespace CookingPrototype.UI {
 }
